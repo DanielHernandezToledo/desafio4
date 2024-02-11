@@ -1,0 +1,15 @@
+*{
+    font-family: Roboto;
+}
+
+img{
+    max-height: 250px;
+}
+
+h1,h2,h3,h4,h5{
+    font-weight: 500;
+}
+
+a,p{
+    font-weight: 300;
+}
